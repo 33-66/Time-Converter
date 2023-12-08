@@ -2,8 +2,8 @@
 This is  a simple project carrying a file called toy-problems with three challenges:
  -  Converting 12-hour time to 24-hour time.
  -  Two numbers are positive task
- -  Consonant value
- The  toy-problems file carries all the challenges
+ -  Consonant value 
+ T
 
 
 ##      Technologies used
