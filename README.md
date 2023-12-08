@@ -1,5 +1,5 @@
 # Toy Problems
-This is  a simple folder carrying a file called Toyproblems with three challenges:
+This is  a simple project carrying a file called toy-problems with three challenges:
  -  Converting 12-hour time to 24-hour time.
  -  Two numbers are positive task
  -  Consonant value
