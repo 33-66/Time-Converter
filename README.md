@@ -1,9 +1,9 @@
 # Toy Problems
 This is  a simple project carrying a file called toy-problems with three challenges:
- -  Converting 12-hour time to 24-hour time.
- -  Two numbers are positive task
- -  Consonant value 
- T
+ -  Converting 12-hour time to 24-hour time. - has  a function that converts time from 24 hour clock system to 12 hour clock system
+ -  Two numbers are positive task _ check if  two numbers are positive returning true else false
+ -  Consonant value _ calculate the  number of consonants according to position  like  z{26}+b{2}
+ 
 
 
 ##      Technologies used
