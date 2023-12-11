@@ -10,9 +10,14 @@ This is  a simple project carrying a file called toy-problems with three challen
 
 The  project is  a simple   `python`  project  with 100% of python
 - Also u can  refer to  some  materials like mdn https://developer.mozilla.org/en-US/
--  also the site is  deployed under this link  https://exquisite-cuchufli-a350db.netlify.app/
 
-### Licensee
+
+### How to use the  app
+- Okay how to run this app  first  fork and clone to this repository  https://github.com/33-66/Time-Converter.git
+- Then u will be able to run the  code and see if its working
+- Also the site is  deployed under this link  https://exquisite-cuchufli-a350db.netlify.app/ though this is ineffective  since we have no html
+
+#### Licensee
 MIT License
 
 Copyright © 2023 Simon Nganga
