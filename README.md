@@ -9,6 +9,8 @@ This is  a simple project carrying a file called toy-problems with three challen
 ##      Technologies used
 
 The  project is  a simple   `python`  project  with 100% of python
+- Also u can  refer to  some  materials like mdn https://developer.mozilla.org/en-US/
+-  also the site is  deployed under this link  https://exquisite-cuchufli-a350db.netlify.app/
 
 ### Licensee
 MIT License
